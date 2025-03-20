@@ -9,3 +9,4 @@ This repository contains assignments completed during my internship at **Web Bli
 4. **Functions**
 5. **Numpy**
 6. **Pandas**
+7. **Statistics**
